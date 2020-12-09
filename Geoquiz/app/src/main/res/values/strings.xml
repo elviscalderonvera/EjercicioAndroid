@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Geoquiz</string>
+
+    <string name="verdadero">Verdadero</string>
+    <string name="falso">Falso</string>
+    <string name="correcto">Correcto!!</string>
+    <string name="incorrecto">incorrecto!!</string>
+
+    <string name="pregunta_1">La capital de Ecuador es Quito</string>
+    <string name="pregunta_2">Messi juega en el PSG?</string>
+    <string name="pregunta_3">Guayaquil esta ubicada en la provincia del Guayas?</string>
+    <string name="pregunta_4">Ecuador esta ubicada en la mitad del mundo?</string>
+    <string name="pregunta_5">Manta pertenece a la provincia de Pichincha</string>
+
+
+</resources>
